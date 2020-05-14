@@ -1,7 +1,7 @@
 
 .jumbotron{text-align: center; background: none;}
-h1, p{line-height: 3rem; font-family: fantasy;}
-.buttonWords{line-height: 1rem; font-family: fantasy;margin: auto;padding-top: 4%; padding-bottom: 4%;}
+.sectionLight{height: 230px;padding-top: 0rem; padding-bottom: 0rem;}
+h1, p{line-height: 0rem; font-family: fantasy;}
 
 
 .eze{background-color: #2db300;}
@@ -13,7 +13,7 @@ h1, p{line-height: 3rem; font-family: fantasy;}
 .d-block{padding:  ;
   padding-right: 30px;
   padding-bottom: 50px;
-  padding-left: 50px;
+  padding-left: 30px;
 border-radius: 15px;
 box-shadow: 5px;}
 
